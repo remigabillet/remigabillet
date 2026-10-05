@@ -1,5 +1,7 @@
 # Hi, I’m Remi
 
-At Wellfound (formerly AngelList Talent), I started the data platform as the first dedicated data engineer and still run it end to end. My work covers analytics, ML, AI, and the infrastructure behind them.
+I’ve spent the past 20 years building early-stage startups in San Francisco. I founded 8tracks along the way.
 
-Lately I’ve been working on production LLM infrastructure and agent observability. Most of my code lives in private company repositories.
+I love data in all its forms: analytics, ML, AI, and the infrastructure behind them. At Wellfound (formerly AngelList Talent), I started the data platform as the first dedicated data engineer and still run it end to end.
+
+Lately, that’s included production LLM infrastructure and agent observability. Most of my code lives in private company repositories.
