@@ -1,5 +1,5 @@
 # Hi, I’m Remi
 
-I founded and run the data platform at Wellfound (formerly AngelList Talent). I joined as its first dedicated data engineer and own data end to end: analytics, ML, AI, and the infrastructure that supports them.
+At Wellfound (formerly AngelList Talent), I started the data platform as the first dedicated data engineer and still run it end to end. My work covers analytics, ML, AI, and the infrastructure behind them.
 
-My work ranges from ingestion and orchestration to LLM infrastructure and agent observability. Most of my production code lives in private company repositories, but I’m happy to discuss the architecture and tradeoffs behind it.
+Lately I’ve been working on production LLM infrastructure and agent observability. Most of my code lives in private company repositories.
